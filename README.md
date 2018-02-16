@@ -1,1 +1,1 @@
-# django_todo_app
+faridmuradov.pythonanywhere.com
